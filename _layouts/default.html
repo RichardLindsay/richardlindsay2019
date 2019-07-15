@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
+
+  {% include meta.html %}
+
+  <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+  <link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Markazi+Text" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Leckerli+One" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Raleway:400,600,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/styles.css" />
+
+</head>
+
+<body>
+  <header>
+    {% include header.html %}
+  </header>
+
+  <div id="content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </div>
+
+  <footer>
+    {% include footer.html %}
+  </footer>
+  {% include analytics.html %}
+</body>
+
+</html>
