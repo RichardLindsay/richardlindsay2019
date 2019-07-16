@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Glasgow Children's Hospital Charity"
+date:   2019-07-15 11:43:01 +0100
+background-color: "#894fbf"
+text-color: "#fff"
+external_url: "https://www.glasgowchildrenshospitalcharity.org"
+image: "https://lh3.googleusercontent.com/ekLh_4vhgmxRRiatR4JN_imyuR_45S3CvyTDXV2Pdzht1AyyBMV2JhD57Al2jH7v4gRdam8b2tkT06b4uv50wYFl5ZdMZNNebLYkZyeIELC95TbtxZdKwSsCqnywrYd7WAZdUdpk94S7N450fcVBv6cioyn7k3Rd9860p1akpmIu4Qq3vNLNElKnXr563PoHGzmTjKAcr5imOJSI0B63RIgfOJ__rnVrV4WZlkLNnWakLiIA3wpRsHFQgHseJmEtVxjzHgEnIIv3L3M_Faih8MhTYyctfz9HuJAkb5TFkUe039WKtJEgLDUtNVwU2STJwhX_L8wv8uevmKO4QsXzlAPt107Oi630O-oQHg5QjZ5DB-D6YZA6JSETLcfw8jR6DsMGHm34eYwN89mCVttJzXx5teWoM_VhvU5Jd2HtmmPscbj1Ub6kSqwmuzIxCMc6vmnh2KSYyEq-r31Vif32olb9AkcqcZ4uFLzM3U-8-ICQPtbC3dLWAPVizcT4F0IAlfjlizcobvZ0rEdCZhDii9qT96NsKdyzOCq_i_4m77oPjGCO85WgbEAAH2-98FE-7-15E_vzKqSi0MpZxavnF_CNnUj5c8w4-jpmGk3lPGmzWMmqbiIZHDscZfVo3Sz2YA8w5LsEKVB5qRx1PF4yQIN8Yswglt7BC-g1aCWruwmIRYOSPNn_NEy_cyuRRwItcN_J9c0NjiNifup5vyvCRDqsLQ=s581-no"
+---
+Frontend development of the popular children's hospital in Glasgow.
