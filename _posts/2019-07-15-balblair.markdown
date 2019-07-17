@@ -4,7 +4,7 @@ title:  "Balblair"
 date:   2019-07-15 11:43:01 +0100
 background-color: "#926d39"
 text-color: "#fff"
-image: ""
+image: "https://lh3.googleusercontent.com/lMaHa_gdd3hvyDoD2BaLfKkIpDbdEfkijpG-qaDAxLdhR8Z2OAH1RpwVKcSRuw2rpPK639NwaAyQcJXSMi-yEigCzztAvaPjIlmrJRUTSASqx9Kpq5Ssnn4GcU20f46Yn5eF5fFSztFzpTkby72C2NV1Z_w4Swnl9dQZZVphAKTd6tjvJoUN6vPIQdSm9qEOaMV3owVliETTjcfPEORfCbBaBSjomFsiCKKC45G6nxuDqQQtJohFWplo7Pn_ji6s6nMAVHjaQnebWB1bN_EsitECgTGrv9hKzaEjEImaYjPQGYrbwYihTuQH8ASMpmRXGrkcJ9MeXH9cIxdJt5bXm1OmvP1EbyAOJjo0SKe3pMFK-yEvM-48QReq2Yt70vZn8akCCg3aFcdIHTnoGcquAlK6szhhXnJPfNIjRMnC5pT-PsK20n3vrkX2XgSq3tAwBywbp9SHMQT2jkGiGrDhFVUmdjVSGJaoel_tvnZXJZRhDYZX2hDto2yTqqPWylHAhuE4MjhR91Yob3PkxNfaBFiA1nbrY1WpFcVi58wbEpgQQ7rcSiieuKlZSlEplbehH0rttgZwO_cBW0zBHuarvFzwbCaeSXegbLU98Qs5b54FkXrkgdA3tUAdIyPkm8AaMDeUc84XKDLHwyXw8qndsT96G4he-On5=s978-no"
 external_url: "https://www.balblair.com"
 ---
 Frontend development of one of Scotland's oldest Whisky distilleries.

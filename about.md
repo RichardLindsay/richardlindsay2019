@@ -1,18 +1,23 @@
 ---
 layout: page
-title: About
+title: ""
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Richard and I'm a Frontend Web Developer.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I work at tictoc Digital in Glasgow where we build and maintain websites for clients from a variety of sectors.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I live in Falkirk, Scotland with my wife, Claire.
 
+Outside of work, I'm obsessed about food and drink. We travel the World seeking out the best restaurants and bars.
 
-[jekyll-organization]: https://github.com/jekyll
+I (sometimes) post about our experiences in my food and drink blog, [Demanding Epicurean](https://demandingepicurean.co.uk).
+
+I'm a homebrewer and love all things beer.
+
+I also enjoy playing and watching football.
+
+Please get in touch if you'd like to chat or have any questions.
+
+Cheers 🍻
