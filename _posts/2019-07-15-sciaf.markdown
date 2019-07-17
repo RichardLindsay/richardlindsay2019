@@ -4,7 +4,7 @@ title:  "SCIAF"
 date:   2019-07-15 11:43:01 +0100
 background-color: "#ff671f"
 text-color: "#fff"
-image: ""
+image: "https://lh3.googleusercontent.com/2vM14enMXyo4Bv3ZPz8E-bWrpc7M9pCiHS3Ax7O0-PmDu74_fW5U0Nr71fAZLDpO8N91t5Byo76sHlnBHHG_IBTW7z1X8OXaPY56GPS5lnKBr7TytDNWpVgjxlEe8KjsccOXUYOgXQ2u38c72KwhRTf2G1YGdGupgGS8jtbnbY8xywe4c-A6UHLxu1QHHtg8l26r5PNG8vdcokguiC8rwyFEti1zak0EwTr7_S-ma4bLawa8Xt7vOau5ALTuJD_D8mgeDzGEuxRyqkslKE4DB50nUUpBudMGxAnoCnefxjKfDkolPe55HFZYZ2KoKVuiGZq3m_rAcfzQW3C9W39SoZFfVLMrl1giLNGQfER25k1lPldNjLKvnKfvyG3vg4-Sz5krScyUc2DTO8cUZhIa3OvP_16HFLy6Xp2gr5RFmeYH-oOwQEJLMpS0FmjtBoVROROTTvu4ZSfUr_G_sV1WPJ_W20vv86K1-9IcIq_kZI3T9Yfc6b3L4mzZBuuXd1MEN9NUZAwOZgHktDTfekEzf1q86Zzn7Ohw6GSuXWXf8C9xwfYQmkiLfhHcWDIDAPh116oAQE58VAIvxirJZjt3vDWkfIBq95fUj6uPeVl4OYbn56E5QI9XrojkrcFqUioSsHHUP4aM4MFeFyRrsi83dgVyXOy7idzJ=s568-no"
 external_url: "https://www.sciaf.org.uk/"
 ---
 Frontend development of the official aid and development agency of the Roman Catholic Church in Scotland.
