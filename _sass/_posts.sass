@@ -46,11 +46,10 @@
   .posts
     display: grid
     grid-template-columns: 1fr 1fr
-    grid-column-gap: 2%
-    grid-row-gap: 2%
+    grid-column-gap: 20px
+    grid-row-gap: 20px
   
   .post
-    max-width: none
     width: 100%
     margin-bottom: 0
 
@@ -60,9 +59,6 @@
     grid-template-columns: 1fr 1fr 1fr
   
   .post
+    max-width: none
     .article_content
       padding: 2em
-
-@media screen and (min-width: 1500px)
-  .posts
-    grid-template-columns: 1fr 1fr 1fr 1fr
