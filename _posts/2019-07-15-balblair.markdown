@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Balblair"
+date:   2019-07-15 11:43:01 +0100
+background-color: "#926d39"
+text-color: "#fff"
+image: ""
+external_url: "https://www.balblair.com"
+---
+Frontend development of one of Scotland's oldest Whisky distilleries.
