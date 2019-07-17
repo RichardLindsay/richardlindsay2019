@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Scotrail Excuse Generator"
+date:   2019-07-15 11:43:01 +0100
+background-color: "#00A87C"
+text-color: "#fff"
+external_url: "http://scotfail.party/"
+image: "https://lh3.googleusercontent.com/s2dAc0vXquR73Rix0JIiataZzOpQgs_oISo0vCEZQZPC8uA6CyuhfGXGmsInWqDskfDR_Ke7AcdBvkyGl8de7zYR1a12QJsL2f-RXjAQwxui8m725L4jhJf-WCYEGhOLda1pIeRnWbISf1u__edRqQvMHGKxkBbnKchO44w-mJF38D2oRf2jgeSEWwPlzkTcJtqOTwvA4_2g1XLSb6Qg1bN7PJnSLLaAhWcKJlxO7J8Wv32o2mqwU3t3KK9L0E8l6YbeGKxui5g4VMpadZofRCawmz4YOfekt5a0p2qX07TioNDGd56oiRcxVGYugT5rBdVVRm6rmhkvl9tX6FK9o8cLQBUbicFofQTXWERT2zWJRerhWYAG5B1yDzhE89UpF3Sircav-WTmEKZnS7jdVSOvQcAN7H6rbWcjkdUCym7_hjr0EuySR1U-JFHTMRGbnngFXTVhwtl6f_YxOgGFHZOtGUk6Vx9jqUI-Ajz2jX3JiqCI7axHDpXdnwDVPlC3Qf68xKh_QwWFpQdhKA0z_ZW22GmHKn5lFwt_TLeraYlnW1u1IXhu7lmjobdsM7BxExT1Tv-NbOeXUeReeTF4gnnWVPXmOcDOrZO0H2eTjo6qw-lPQ5cPo7DxJBQE9qhnVw9S6JkkNsgbhTfDQLSqTi4nowlE80fJ=s932-no"
+---
+Design and development of the generator in VueJS.
